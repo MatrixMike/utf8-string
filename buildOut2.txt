@@ -1,0 +1,15 @@
+
+on the commandline: warning:
+    -this-package-key is deprecated: Use -this-unit-id instead
+
+on the commandline: warning:
+    -this-package-key is deprecated: Use -this-unit-id instead
+cabal: '/usr/local/bin/ghc-pkg' exited with an error:
+utf8-string-1.0.1.1: Warning: haddock-interfaces:
+/home/mikeh/utf8-string/dist/doc/html/utf8-string/utf8-string.haddock doesn't
+exist or isn't a file
+utf8-string-1.0.1.1: Warning: haddock-html:
+/home/mikeh/utf8-string/dist/doc/html/utf8-string doesn't exist or isn't a
+directory
+utf8-string-1.0.1.1: installed package info from too old version of Cabal (key
+field does not match id field)
